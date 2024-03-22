@@ -1,0 +1,17 @@
+{
+  "name": "udemy-codecept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.5.15",
+    "prettier": "^3.2.5",
+    "selenium-standalone": "^9.3.3",
+    "webdriverio": "^8.35.1"
+  }
+}
